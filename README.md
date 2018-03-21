@@ -1,4 +1,4 @@
-#Beauty-Clicky-Game
+#### Beauty-Clicky-Game
 
 #### Test your memory with beauties from around the world.
 
